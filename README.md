@@ -72,3 +72,37 @@ The ensemble-based models outperformed single estimators, with LightGBM and XGBo
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ranganath141/nepal-earthquake-risk-prediction.git
+
+2.  Navigate to the project directory
+
+    cd nepal-earthquake-risk-prediction
+
+3. Install dependecies :
+   pip install -r requirements.txt
+
+4. open and run the notebook/script to reproduce results.
+
+## Future Improvements :
+
+Hyperparameter optimization using Bayesian methods
+
+Incorporating geospatial features
+
+Model deployment using Flask / FastAPI
+
+Real-time risk prediction dashboard
+
+
+
+
+
+
+👤 Author
+
+Ranganath
+Aspiring Data Scientist / AI-ML Engineer
+
+GitHub: https://github.com/Ranganath141
+
+
+
